@@ -1,0 +1,43 @@
+.h1_admin {
+    font-size: 2rem;
+    font-style: italic;
+}
+.h2_admin {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+.h3_admin {
+    font-size: 1.2rem;
+    font-style: italic;
+}
+.a_icon {
+    color: inherit;
+    text-decoration: none;
+}
+.green_action {
+    color: #008800;
+}
+.red_action {
+    color: #880000;
+}
+.blue_action {
+    color: #000088;
+}
+.black_action {
+    color: #000000;
+}
+.purple_action {
+    color: purple;
+}
+.upload_photo_browse {
+    background-color: #eeeeee;
+    width: 90%;
+    vertical-align: middle;
+    border-spacing: 0px;
+    cursor: pointer;
+    text-align: center;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 50px;
+    border: 1px dashed;
+}

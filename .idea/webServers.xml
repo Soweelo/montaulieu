@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="479c15c1-5e9f-48e6-9b07-7f2fb851e835" name="montaulieu" url="http://ftp.envol4.serveur-dedie.fr">
+        <fileTransfer rootFolder="/htdocs" host="ftp.envol4.serveur-dedie.fr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
