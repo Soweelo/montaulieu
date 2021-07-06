@@ -26,18 +26,28 @@
              <div class="owl-carousel owl-theme">
                 <div class="item" style="background-image: url('/storage/uploads/elements/images/agenda-img.jpg');">
                     <div class="filter-agenda">
-                        <h3>Titre</h3>
+                        <h3>Titre 1</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, aspernatur consequatur eligendi fugit iusto minus quia quos saepe. </p>
                         <a href="" class="button-all button-agenda">Voir Plus</a>
                     </div>
 
                 </div>
-                <div class="item">
-                    <h3>2</h3>
-                </div>
-                <div class="item">
-                    <h3>3</h3>
-                </div>
+                 <div class="item" style="background-image: url('/storage/uploads/elements/images/agenda-img.jpg');">
+                     <div class="filter-agenda">
+                         <h3>Titre 2</h3>
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, aspernatur consequatur eligendi fugit iusto minus quia quos saepe. </p>
+                         <a href="" class="button-all button-agenda">Voir Plus</a>
+                     </div>
+
+                 </div>
+                 <div class="item" style="background-image: url('/storage/uploads/elements/images/agenda-img.jpg');">
+                     <div class="filter-agenda">
+                         <h3>Titre 3</h3>
+                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A, aspernatur consequatur eligendi fugit iusto minus quia quos saepe. </p>
+                         <a href="" class="button-all button-agenda">Voir Plus</a>
+                     </div>
+
+                 </div>
            </div>
 
         <a href="" class="button-all button-accent">TOUT l'agenda</a>
